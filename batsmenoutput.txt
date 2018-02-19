@@ -1,0 +1,2 @@
+David Miller,The polarity:0.0,Negative
+Chris Gayle,The polarity:0.0,Negative

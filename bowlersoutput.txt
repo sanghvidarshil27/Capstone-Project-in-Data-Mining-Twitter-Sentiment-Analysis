@@ -1,0 +1,5 @@
+Mohammed Shami,The polarity:0.0,Negative
+Jasprit Bumrah,The polarity:0.0,Negative
+Ryan Ten Doeschate,The polarity:0.0,Negative
+Vikramjeet Malik,The polarity:0.0,Negative
+Siddharth Kaul,The polarity:0.0,Negative
